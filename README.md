@@ -1,1 +1,3 @@
 # Thesis-data
+
+This repository contains the data and methods planned for the thesis, as well as the pilot study to process the data. I intend to conduct topic modeling and sentiment analysis on Reddit comments. For the sentiment analysis, I first utilized NLTK Vader to analyze the sentiment of each comment, and then I employed Riveter to ascertain the sentiment towards certain entities. The sample data comprises comments under the Reddit post titled "Why is the ending so widely despised by the community?" (https://www.reddit.com/r/ShingekiNoKyojin/comments/126k2ri/why_is_the_ending_so_widely_despised_by_the/)
